@@ -181,4 +181,24 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+   <fields>
+        <fullName>Field_3__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 3</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+   <fields>
+        <fullName>Field_3__c</fullName>
+        <externalId>false</externalId>
+        <label>Field 3</label>
+        <length>25</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
